@@ -3,3 +3,7 @@
 *.xd
 .DS_Store
 .prettierignore
+.vscode/
+node_modules/
+dist/
+build/
