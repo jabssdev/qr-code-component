@@ -27,7 +27,8 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	padding: 2rem;
+	padding-block: 2rem;
+	padding-inline: 2rem;
 	min-height: 100dvh;
 	font-family: "Outfit", sans-serif;
 	background-color: var(--color-slate-300);
@@ -46,7 +47,8 @@ main {
 	align-items: center;
 	text-align: center;
 	max-width: 36rem;
-	padding: 1.6rem;
+	padding-block: 1.6rem;
+	padding-inline: 1.6rem;
 }
 
 .card-image {
