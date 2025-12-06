@@ -79,7 +79,6 @@ main {
 
 .attribution a {
 	color: var(--color-slate-900);
-	text-decoration: none;
 }
 
 .attribution a:hover {
